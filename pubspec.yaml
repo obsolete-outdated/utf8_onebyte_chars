@@ -1,0 +1,8 @@
+name: utf8_onebyte_chars
+description: All utf8 one byte english letters and special characters. Used for input validation, random string generators etc.
+version: 1.0.0
+author: Subbotin Aleksei <darkandjeweled@gmail.com>
+homepage:  https://github.com/Moonspeaker/utf8_onebyte_chars
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
